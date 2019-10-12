@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "808545617257",
+    "firebase_url": "https://vayudh-dd031.firebaseio.com",
+    "project_id": "vayudh-dd031",
+    "storage_bucket": "vayudh-dd031.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808545617257:android:c2124b79dc4a41b4e869f8",
+        "android_client_info": {
+          "package_name": "com.bulbul.vayudh_indoor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808545617257-6reb73jejnp6qtqft82ti3pvr1bdgmib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrdob4H3l86wldz1jy7uUnFmrai7cR1Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808545617257-6reb73jejnp6qtqft82ti3pvr1bdgmib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
